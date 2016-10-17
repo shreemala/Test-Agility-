@@ -68,7 +68,8 @@ namespace CMS.Atlas.Web.UI.asp.global.controls
             Supplier = 0,
             Customer,
             Division,
-            Geo
+            Geo,
+            Client
         };
 
         public enum EditModeList
